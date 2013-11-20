@@ -1,0 +1,2 @@
+# Module chrome_gwt_demo
+# RPC service class, partial path of RPC policy file

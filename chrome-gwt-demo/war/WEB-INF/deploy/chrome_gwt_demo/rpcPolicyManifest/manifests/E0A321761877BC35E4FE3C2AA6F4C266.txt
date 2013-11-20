@@ -1,0 +1,2 @@
+serviceClass: com.ensarm.client.GreetingService
+path: 35A0A36726A7076B71AD5734299B3E53.gwt.rpc
